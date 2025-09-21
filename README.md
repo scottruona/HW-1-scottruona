@@ -1,7 +1,3 @@
-# HW-1-
+# Android without Google: Volla Phone Quintus & Volla OS
 
-HW 1 Fall 2025 Software Engineering / IPD 
-
-This is an empty repository for you to attempt a pull request as part of HW 1.
-
-
+https://tilvids.com/w/rupHv17eDSj1bUbDzgunGC
